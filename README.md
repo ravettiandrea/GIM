@@ -1,7 +1,7 @@
 ## Corso di Grafica in movimento, SUPSI, 2024
-Ravetti Andrea
+# Ravetti Andrea
 
-Esercizio 1A
+Esercizio 1A  
 https://ravettiandrea.github.io/GIM/Esercizio_1A/acceso_spento_2.html
 https://ravettiandrea.github.io/GIM/Esercizio_1A/acceso_spento_3.html
 
