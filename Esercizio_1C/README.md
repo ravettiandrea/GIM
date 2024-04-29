@@ -1,18 +1,5 @@
-# Esercizio 1C
-Lettura
+## Commento: Sul Teatro Di Marionette di Heinrich Von Kleist
 
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
+Il testo di Heinrich Von Kleist induce ad una riflessione sulla relazione tra movimento, anima e perfezione. Attraverso il dialogo tra il narratore e il signor C., Kleist ci offre una prospettiva affascinante e, in un certo senso, inquietante costringendoci a confrontarci con l'idea che l'arte possa esistere al di là della coscienza umana, che la bellezza possa essere raggiunta attraverso la meccanica e la semplice legge di gravità. In questo modo il testo mette in discussione le nostre concezioni tradizionali di bellezza ed espressione artistica e, inoltre, ci porta a domandarci che cosa significa allora essere umani, cosa distingue l'uomo stesso da una macchina e in particolare cosa distingue l'arte creata dall'uomo da quella di macchine non coscienti. 
 
-## Restrizioni
-- 500-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
 
