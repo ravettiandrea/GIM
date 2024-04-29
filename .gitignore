@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.DS_Store
+Esercizio_1A/.DS_Store
+Esercizio_1A/img/.DS_Store
+Esercizio_1A/img/rotazione_2/.DS_Store
