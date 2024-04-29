@@ -1,4 +1,4 @@
 # GIM
 Corso di Grafica in movimento, SUPSI, 2024
 
-http://127.0.0.1:5500/aperto_chiuso_3.html
+https://ravettiandrea.github.io/GIM/Esercizio_1A/acceso_spento_2.html
