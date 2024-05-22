@@ -24,3 +24,6 @@ https://github.com/ravettiandrea/GIM/blob/main/Esercizio_1C/README.md
 
 ### Esercizio 2     
 https://ravettiandrea.github.io/GIM/Esercizio_2/Esercizio_2.html
+
+### Esercizio 3A
+https://ravettiandrea.github.io/GIM/Esercizio_3A/Esercizio_3A.html
