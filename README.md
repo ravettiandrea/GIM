@@ -27,3 +27,4 @@ https://ravettiandrea.github.io/GIM/Esercizio_2/Esercizio_2.html
 
 ### Esercizio 3A
 https://ravettiandrea.github.io/GIM/Esercizio_3A/orologio_astratto/Esercizio_3A.html
+https://ravettiandrea.github.io/GIM/Esercizio_3A/web_app/Esercizio_3A_web_app.html
